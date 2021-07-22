@@ -1,11 +1,19 @@
 {
-    "users": [{
-        "id": 1,
-        "name": "Fulano",
-        "email": "fulano@mail.com"
-    }, {
-        "id": 2,
-        "name": "Beltrano",
-        "email": "beltrano@mail.com"
-    }]
+  "users": [
+    {
+      "id": 1,
+      "name": "Fulano",
+      "email": "fulano@mail.com"
+    },
+    {
+      "id": 2,
+      "name": "Beltrano",
+      "email": "beltrano@mail.com"
+    },
+    {
+      "name": "Ciclano",
+      "email": "ciclano@mail.com",
+      "id": 3
+    }
+  ]
 }
