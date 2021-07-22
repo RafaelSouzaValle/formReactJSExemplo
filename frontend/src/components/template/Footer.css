@@ -3,7 +3,7 @@ footer.footer {
     align-items: center;
     justify-content: flex-end;
     padding: 0 25px;
-    background-color: var(--bg-dark);
+    background-color: var(--bg-darkgray);
     color: aliceblue;
     font-size: small;
 }

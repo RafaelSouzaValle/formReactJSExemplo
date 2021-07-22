@@ -1,5 +1,6 @@
 :root {
     --bg-dark: #1a2f3a;
+    --bg-darkgray: #202020;
 
     --logo-height: 100px;
     --header-height: 100px;
@@ -27,7 +28,7 @@
     grid-template-areas: 
         "logo header"
         "menu content"
-        "menu footer";
+        "footer footer";
     height: 100vh;
     background-color: #f1f1f1;
 }
