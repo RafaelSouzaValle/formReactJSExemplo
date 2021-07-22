@@ -3,5 +3,5 @@ import React from 'react'
 
 export default props =>
     <footer className="footer">
-        Rodapé
+        Developed by DigiValle <i className="fa fa-university"></i>
     </footer>

@@ -1,0 +1,14 @@
+footer.footer {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0 25px;
+    background-color: var(--bg-dark);
+    color: aliceblue;
+    font-size: small;
+    box-shadow: var(--shadow);
+}
+
+footer.footer i {
+    color: brown;
+}
