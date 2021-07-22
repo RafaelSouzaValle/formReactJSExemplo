@@ -6,7 +6,6 @@ footer.footer {
     background-color: var(--bg-dark);
     color: aliceblue;
     font-size: small;
-    box-shadow: var(--shadow);
 }
 
 footer.footer i {

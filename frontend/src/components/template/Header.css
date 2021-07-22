@@ -4,6 +4,7 @@ header.header {
     overflow: hidden;
     white-space: nowrap;
     color: aliceblue;
+    box-shadow: var(--shadow);
 }
 
 header.header h1 {
